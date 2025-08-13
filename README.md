@@ -18,7 +18,7 @@ Además con formación en **Psicología** lo cual me permite combinandar el aná
 💬 Habilidades clave: comunicación efectiva, toma de decisiones y resolución de conflictos.  
 
 ---
-## 📊 Proyectos Destacados (Análisis de datos)
+## 📊 Proyectos Destacados (Análisis de datos) https://github.com/Adalab/project-da-promo-50-modulo-3-team-3
 
 **📈 Análisis de datos para la optimización de procesos administrativos**  
 Transformación, limpieza y análisis de grandes volúmenes de datos para mejorar la eficiencia operativa en entornos administrativos.  
