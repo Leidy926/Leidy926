@@ -42,7 +42,13 @@ https://github.com/Adalab/Proyecto-Representacion-femenina-en-el-cine-a-lo-largo
 ---
 
 
-## 📫 Conectemos
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/leidy-bejarano-224423359)
-[![Email](https://img.shields.io/badge/Email-Contacto-red?style=for-the-badge&logo=gmail)](lejobe72@gmail.com)
+## 🔗 Conéctate conmigo
+- [💼 LinkedIn](https://www.linkedin.com/in/leidy-bejarano-224423359)  
+- 📧 Email: lejobe72@gmail.com  
+- 🌐 Portafolio: *Próximamente*  
+
+
+
+> ✨ *"Los datos cuentan historias; mi trabajo es ayudarlas a hablar."*
+
 
