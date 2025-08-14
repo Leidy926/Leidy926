@@ -19,7 +19,8 @@ Además con formación en **Psicología** lo cual me permite combinandar el aná
 
 ---
 ## 📊 Proyectos Destacados (Análisis de datos)
-      https://github.com/Adalab/Proyecto-Optimizacion-de-talento
+
+https://github.com/Adalab/Proyecto-Optimizacion-de-talento
 
 **📈 Análisis de datos para la optimización de procesos administrativos**  
 Transformación, limpieza y análisis de grandes volúmenes de datos para mejorar la eficiencia operativa en entornos administrativos.  
