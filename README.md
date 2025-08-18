@@ -36,7 +36,7 @@ Uso de Python y Power BI para identificar patrones y proponer estrategias que me
 
 https://github.com/Adalab/Proyecto-Representacion-femenina-en-el-cine-a-lo-largo-de-la-historia
 
-- **Análisis sobre la representacion femenina en el cine a lo largo del tiempo**: Este proyecto consiste en un análisis de la representación femenina en el cine a lo largo del tiempo, utilizando conjuntos de datos relacionados con el Test de Bechdel . El objetivo es entender cómo ha evolucionado la participación y representación de las mujeres en las películas desde una perspectiva crítica y basada en datos. quiero un titulo para este parrafuso de SQL y Tableau para identificar oportunidades de mejora y optimización de campañas comerciales.  
+- **Análisis sobre la representacion femenina en el cine a lo largo del tiempo**: Este proyecto consiste en un análisis de la representación femenina en el cine a lo largo del tiempo, utilizando conjuntos de datos relacionados con el Test de Bechdel . El objetivo es entender cómo ha evolucionado la participación y representación de las mujeres en las películas desde una perspectiva crítica y basada en datos. 
 - **Proyecto de uso educativo**: enfoque en divulgación y análisis con perspectiva de género. 
 
 ---
